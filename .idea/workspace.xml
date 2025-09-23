@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91d8ca76-5e23-49e2-ac04-bb8aea4e5791" name="Changes" comment="add .gitignore file">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Workbook1a/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Workbook1/Helloworld/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Workbook1a/Helloworld/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Workbook1/Helloworld/src/main/java/com/pluralsight/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Workbook1a/Helloworld/src/main/java/com/pluralsight/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="91d8ca76-5e23-49e2-ac04-bb8aea4e5791" name="Changes" comment="add .gitignore file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +65,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758667194992</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add .gitignore file">
+      <option name="closed" value="true" />
+      <created>1758667894595</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758667894595</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
