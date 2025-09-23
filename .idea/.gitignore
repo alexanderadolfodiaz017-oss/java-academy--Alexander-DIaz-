@@ -1,0 +1,8 @@
+# Default ignored files
+#Maven
+target/
+.idea/
+*.iml
+out/
+# Logs
+*.log
