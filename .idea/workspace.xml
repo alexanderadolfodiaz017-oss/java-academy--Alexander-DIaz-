@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91d8ca76-5e23-49e2-ac04-bb8aea4e5791" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/README.md" afterDir="false" />
+    <list default="true" id="91d8ca76-5e23-49e2-ac04-bb8aea4e5791" name="Changes" comment="add .gitignore file">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Workbook1a/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Workbook1/Helloworld/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Workbook1a/Helloworld/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Workbook1/Helloworld/src/main/java/com/pluralsight/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Workbook1a/Helloworld/src/main/java/com/pluralsight/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +50,7 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\alexa\Pluralsight\Work_book1\java-academy--Alexander-DIaz-\Workbook1" />
+      <recent name="C:\Users\alexa\Pluralsight\Work_book1\java-academy--Alexander-DIaz-" />
       <recent name="C:\Users\alexa\Pluralsight\Work_book1\java-academy--Alexander-DIaz-\.idea" />
     </key>
   </component>
@@ -58,13 +62,27 @@
       <option name="presentableId" value="Default" />
       <updated>1758664023958</updated>
     </task>
+    <task id="LOCAL-00001" summary="add .gitignore file">
+      <option name="closed" value="true" />
+      <created>1758667194992</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758667194992</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="add .gitignore file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add .gitignore file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Workbook1/Helloworld/src/main/java/com/pluralsight/Main.java</url>
+          <url>file://$PROJECT_DIR$/Workbook1a/Helloworld/src/main/java/com/pluralsight/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
